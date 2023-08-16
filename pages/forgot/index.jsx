@@ -38,4 +38,4 @@ const ForgotPage = () => {
 
     )
 }
-export default ForgotPage
+export default ForgotPage;
